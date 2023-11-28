@@ -1,0 +1,3941 @@
+{
+  "id": "6544cecd298ffbbf8950c170",
+  "nodeId": "ari:cloud:trello::board/workspace/6544cecd298ffbbf8950c155/6544cecd298ffbbf8950c170",
+  "name": "MyIRC",
+  "desc": "",
+  "descData": null,
+  "closed": false,
+  "dateClosed": null,
+  "idOrganization": "6544cecd298ffbbf8950c155",
+  "idEnterprise": null,
+  "limits": {
+    "attachments": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 36000,
+        "warnAt": 28800
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "boards": {
+      "totalMembersPerBoard": {
+        "status": "ok",
+        "disableAt": 1600,
+        "warnAt": 1280
+      },
+      "totalAccessRequestsPerBoard": {
+        "status": "ok",
+        "disableAt": 4000,
+        "warnAt": 3200
+      }
+    },
+    "cards": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4000
+      },
+      "openPerList": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4000
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 2000000,
+        "warnAt": 1600000
+      },
+      "totalPerList": {
+        "status": "ok",
+        "disableAt": 1000000,
+        "warnAt": 800000
+      }
+    },
+    "checklists": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1800000,
+        "warnAt": 1440000
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "checkItems": {
+      "perChecklist": {
+        "status": "ok",
+        "disableAt": 200,
+        "warnAt": 160
+      }
+    },
+    "customFields": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 40
+      }
+    },
+    "customFieldOptions": {
+      "perField": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 40
+      }
+    },
+    "labels": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "lists": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 3000,
+        "warnAt": 2400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    },
+    "reactions": {
+      "perAction": {
+        "status": "ok",
+        "disableAt": 900,
+        "warnAt": 720
+      },
+      "uniquePerAction": {
+        "status": "ok",
+        "disableAt": 17,
+        "warnAt": 14
+      }
+    }
+  },
+  "pinned": false,
+  "starred": false,
+  "url": "https://trello.com/b/ekNNZYG9/myirc",
+  "prefs": {
+    "permissionLevel": "org",
+    "hideVotes": false,
+    "voting": "disabled",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": true,
+    "cardCovers": true,
+    "isTemplate": false,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "hiddenPluginBoardButtons": [],
+    "switcherViews": [
+      {
+        "viewType": "Board",
+        "enabled": true
+      },
+      {
+        "viewType": "Table",
+        "enabled": true
+      },
+      {
+        "viewType": "Calendar",
+        "enabled": false
+      },
+      {
+        "viewType": "Dashboard",
+        "enabled": false
+      },
+      {
+        "viewType": "Timeline",
+        "enabled": false
+      },
+      {
+        "viewType": "Map",
+        "enabled": false
+      }
+    ],
+    "background": "pink",
+    "backgroundColor": "#CD5A91",
+    "backgroundImage": null,
+    "backgroundImageScaled": null,
+    "backgroundTile": false,
+    "backgroundBrightness": "dark",
+    "backgroundBottomColor": "#CD5A91",
+    "backgroundTopColor": "#CD5A91",
+    "canBePublic": true,
+    "canBeEnterprise": true,
+    "canBeOrg": true,
+    "canBePrivate": true,
+    "canInvite": true
+  },
+  "shortLink": "ekNNZYG9",
+  "subscribed": false,
+  "labelNames": {
+    "green": "",
+    "yellow": "",
+    "orange": "",
+    "red": "",
+    "purple": "",
+    "blue": "",
+    "sky": "",
+    "lime": "",
+    "pink": "",
+    "black": "",
+    "green_dark": "",
+    "yellow_dark": "",
+    "orange_dark": "",
+    "red_dark": "",
+    "purple_dark": "",
+    "blue_dark": "",
+    "sky_dark": "",
+    "lime_dark": "",
+    "pink_dark": "",
+    "black_dark": "",
+    "green_light": "",
+    "yellow_light": "",
+    "orange_light": "",
+    "red_light": "",
+    "purple_light": "",
+    "blue_light": "",
+    "sky_light": "",
+    "lime_light": "",
+    "pink_light": "",
+    "black_light": ""
+  },
+  "powerUps": [],
+  "dateLastActivity": "2023-11-03T10:54:51.047Z",
+  "dateLastView": "2023-11-03T10:59:15.227Z",
+  "shortUrl": "https://trello.com/b/ekNNZYG9",
+  "idTags": [],
+  "datePluginDisable": null,
+  "creationMethod": null,
+  "ixUpdate": "71",
+  "templateGallery": null,
+  "enterpriseOwned": false,
+  "idBoardSource": null,
+  "premiumFeatures": [
+    "additionalBoardBackgrounds",
+    "additionalStickers",
+    "customBoardBackgrounds",
+    "customEmoji",
+    "customStickers",
+    "plugins"
+  ],
+  "idMemberCreator": "6544ce104b1a3ece2984257a",
+  "actions": [
+    {
+      "id": "6544d17bab9ba4e41d8b639c",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d17bab9ba4e41d8b6393",
+          "name": "exporter l'ensemble des conversations d'un utilisateur donné",
+          "idShort": 21,
+          "shortLink": "yl0WZOMH"
+        },
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:54:51.067Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544d16f2a3bb876da544adb",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d16f2a3bb876da544ad2",
+          "name": "exporter l'historique des conversations de l'utilisateur connecté",
+          "idShort": 20,
+          "shortLink": "WMFDcpxI"
+        },
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:54:39.201Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544d162845118698c2bfe7a",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d162845118698c2bfe71",
+          "name": "exporter l'ensemble des conversations réalisées entre deux périodes de temps données",
+          "idShort": 19,
+          "shortLink": "uMCObiWl"
+        },
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:54:26.335Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544d15012e0abd02b4c073b",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d15012e0abd02b4c0732",
+          "name": "modifier le mot de passe d'un utilisateur depuis un utilisateur admin",
+          "idShort": 18,
+          "shortLink": "pLN4M4lv"
+        },
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:54:08.825Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544d139898279a6d7ecfb1a",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d139898279a6d7ecfb11",
+          "name": "Création d'un UML de la base de données et tables.",
+          "idShort": 17,
+          "shortLink": "t9BbuutM"
+        },
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:53:45.145Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544d1116fce1831a2969306",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d1116fce1831a29692fd",
+          "name": "Création d'une table messages, une table channels et une table users",
+          "idShort": 16,
+          "shortLink": "M7hNRyDe"
+        },
+        "list": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:53:05.147Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544d0f7d3d330a958398203",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d0f7d3d330a9583981fa",
+          "name": "création d'une base de données appelée myIRC",
+          "idShort": 15,
+          "shortLink": "anxF5Orq"
+        },
+        "list": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:52:39.895Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544d0df88d6dbbca2066519",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d0df88d6dbbca20664e6",
+          "name": "Installation MySQL",
+          "idShort": 14,
+          "shortLink": "y9awEI3Y"
+        },
+        "list": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:52:15.618Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544d0bfc3b2f38051aad821",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d0bfc3b2f38051aad818",
+          "name": "sauvegarde des messages dans un fichier",
+          "idShort": 13,
+          "shortLink": "IiPkUz02"
+        },
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:51:43.765Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544d088b9135e53cea12b98",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d088b9135e53cea12b8f",
+          "name": "créer une vue pour les conversations de groupe",
+          "idShort": 12,
+          "shortLink": "xNItWMAU"
+        },
+        "list": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:50:48.965Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544d06bdbd16ca21058c226",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d06bdbd16ca21058c21d",
+          "name": "créer une vue à une page d'accueil",
+          "idShort": 11,
+          "shortLink": "LNDpy8ym"
+        },
+        "list": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:50:19.850Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544d03b4dbf87b5547b595e",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d03b4dbf87b5547b5955",
+          "name": "créer un canal",
+          "idShort": 10,
+          "shortLink": "Tj96yiOA"
+        },
+        "list": {
+          "id": "6544cecd6aa5823d6ca4f7a7",
+          "name": "Doing"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:49:31.749Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544d02cd3d0919af6c6c762",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d02cd3d0919af6c6c759",
+          "name": "lister les canaux existants",
+          "idShort": 9,
+          "shortLink": "PUmsw0oA"
+        },
+        "list": {
+          "id": "6544cecd6aa5823d6ca4f7a7",
+          "name": "Doing"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:49:16.957Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544d01807bb59eb36ab3895",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544d01807bb59eb36ab388c",
+          "name": "rejoindre un canal",
+          "idShort": 8,
+          "shortLink": "1cRI1Rkp"
+        },
+        "list": {
+          "id": "6544cecd6aa5823d6ca4f7a7",
+          "name": "Doing"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:48:56.987Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cff4c61371aa0452ac6d",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544cff4c61371aa0452ac64",
+          "name": "contacter un user directement dans un channel privé",
+          "idShort": 7,
+          "shortLink": "Rk47F3ES"
+        },
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:48:20.729Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cfe3536b7171fe62bc3f",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544cfe3536b7171fe62bc36",
+          "name": "choisir un pseudonyme",
+          "idShort": 6,
+          "shortLink": "PlOTZ94x"
+        },
+        "list": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:48:03.438Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cfd1dd2873bfe8a0c7f8",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544cfd1dd2873bfe8a0c7ef",
+          "name": "recevoir les messages envoyés par les autres utilisateurs",
+          "idShort": 5,
+          "shortLink": "5tbo17VO"
+        },
+        "list": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:47:45.366Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cfb5ebe4599014f5debe",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544cfb5ebe4599014f5deb5",
+          "name": "envoyer un message",
+          "idShort": 4,
+          "shortLink": "A9wx0TSO"
+        },
+        "list": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:47:17.713Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cf98f2d5da2e1b2e5cca",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "pos": 131074,
+          "id": "6544cf88aa2e446788444e1a",
+          "name": "Création du serveur ExpressJS",
+          "idShort": 3,
+          "shortLink": "C58l3Nco"
+        },
+        "old": {
+          "pos": 65536
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        },
+        "list": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2023-11-03T10:46:48.206Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cf98f2d5da2e1b2e5cba",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "idList": "6544cecdeaa3f64f426eebae",
+          "id": "6544cf88aa2e446788444e1a",
+          "name": "Création du serveur ExpressJS",
+          "idShort": 3,
+          "shortLink": "C58l3Nco"
+        },
+        "old": {
+          "idList": "6544cecdba55f4b6692a8944"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        },
+        "listBefore": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "listAfter": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2023-11-03T10:46:48.170Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cf88aa2e446788444e23",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544cf88aa2e446788444e1a",
+          "name": "Création du serveur ExpressJS",
+          "idShort": 3,
+          "shortLink": "C58l3Nco"
+        },
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:46:32.714Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cf5fee886fe4ceb12a6b",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "pos": 65538,
+          "id": "6544cecefd9038b424ea9945",
+          "name": "Planning",
+          "idShort": 1,
+          "shortLink": "Df6VMiTn"
+        },
+        "old": {
+          "pos": 1
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        },
+        "list": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2023-11-03T10:45:51.193Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cf5fee886fe4ceb12a5b",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "idList": "6544cecdeaa3f64f426eebae",
+          "id": "6544cecefd9038b424ea9945",
+          "name": "Planning",
+          "idShort": 1,
+          "shortLink": "Df6VMiTn"
+        },
+        "old": {
+          "idList": "6544cecdba55f4b6692a8944"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        },
+        "listBefore": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "listAfter": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2023-11-03T10:45:51.138Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cf52f2d5da2e1b2dfc64",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "dueComplete": true,
+          "id": "6544cecee1c1e005a4eab159",
+          "name": "Réunion de lancement",
+          "idShort": 2,
+          "shortLink": "UZec5slv"
+        },
+        "old": {
+          "dueComplete": false
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        },
+        "list": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2023-11-03T10:45:38.902Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cf492d0bfaf77ded2b35",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "idList": "6544cecdeaa3f64f426eebae",
+          "id": "6544cecee1c1e005a4eab159",
+          "name": "Réunion de lancement",
+          "idShort": 2,
+          "shortLink": "UZec5slv"
+        },
+        "old": {
+          "idList": "6544cecdba55f4b6692a8944"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        },
+        "listBefore": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "listAfter": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2023-11-03T10:45:29.318Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cf20672a675a8975ad71",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "due": "2023-10-30T10:00:00.000Z",
+          "id": "6544cecee1c1e005a4eab159",
+          "name": "Réunion de lancement",
+          "idShort": 2,
+          "shortLink": "UZec5slv"
+        },
+        "old": {
+          "due": null
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        },
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2023-11-03T10:44:48.236Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cf20672a675a8975ad64",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "dueReminder": 1440,
+          "id": "6544cecee1c1e005a4eab159",
+          "name": "Réunion de lancement",
+          "idShort": 2,
+          "shortLink": "UZec5slv"
+        },
+        "old": {
+          "dueReminder": null
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        },
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2023-11-03T10:44:48.210Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cf20672a675a8975ad5a",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "start": "2023-10-30T07:00:00.000Z",
+          "id": "6544cecee1c1e005a4eab159",
+          "name": "Réunion de lancement",
+          "idShort": 2,
+          "shortLink": "UZec5slv"
+        },
+        "old": {
+          "start": null
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        },
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2023-11-03T10:44:48.188Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cecee1c1e005a4eab162",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544cecee1c1e005a4eab159",
+          "name": "Réunion de lancement",
+          "idShort": 2,
+          "shortLink": "UZec5slv"
+        },
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:43:26.355Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cece70ff2eb373bb8369",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        },
+        "member": {
+          "id": "6544ce104b1a3ece2984257a",
+          "name": "Julien Thomas"
+        }
+      },
+      "appCreator": null,
+      "type": "unconfirmedBoardInvitation",
+      "date": "2023-11-03T10:43:26.312Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cecefd9038b424ea994e",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "card": {
+          "id": "6544cecefd9038b424ea9945",
+          "name": "Planning",
+          "idShort": 1,
+          "shortLink": "Df6VMiTn"
+        },
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-11-03T10:43:26.232Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cecd6aa5823d6ca4f7ab",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "list": {
+          "id": "6544cecd6aa5823d6ca4f7a7",
+          "name": "Doing"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2023-11-03T10:43:25.952Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cecdba55f4b6692a8948",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "list": {
+          "id": "6544cecdba55f4b6692a8944",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2023-11-03T10:43:25.821Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cecdeaa3f64f426eebb2",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "list": {
+          "id": "6544cecdeaa3f64f426eebae",
+          "name": "Done"
+        },
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2023-11-03T10:43:25.716Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cecd298ffbbf8950c1a3",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        },
+        "organization": {
+          "id": "6544cecd298ffbbf8950c155",
+          "name": "Espace de travail de julien.thomas.mg"
+        }
+      },
+      "appCreator": null,
+      "type": "addToOrganizationBoard",
+      "date": "2023-11-03T10:43:25.432Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    },
+    {
+      "id": "6544cecd298ffbbf8950c19e",
+      "idMemberCreator": "6544ce104b1a3ece2984257a",
+      "data": {
+        "board": {
+          "id": "6544cecd298ffbbf8950c170",
+          "name": "MyIRC",
+          "shortLink": "ekNNZYG9"
+        }
+      },
+      "appCreator": null,
+      "type": "createBoard",
+      "date": "2023-11-03T10:43:25.424Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "6544ce104b1a3ece2984257a",
+        "activityBlocked": false,
+        "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+        "fullName": "Julien Thomas",
+        "idMemberReferrer": null,
+        "initials": "JT",
+        "nonPublic": {
+          "fullName": "Julien Thomas",
+          "initials": "JT",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "julienthomasmg"
+      }
+    }
+  ],
+  "cards": [
+    {
+      "id": "6544cff4c61371aa0452ac64",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:48:20.710Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzuppy9zjov2dbmn8+0iut1uqevl@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdba55f4b6692a8944",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 7,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "contacter un user directement dans un channel privé",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544cff4c61371aa0452ac64",
+      "pos": 65536,
+      "shortLink": "Rk47F3ES",
+      "shortUrl": "https://trello.com/c/Rk47F3ES",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/Rk47F3ES/7-contacter-un-user-directement-dans-un-channel-priv%C3%A9",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d0bfc3b2f38051aad818",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:51:43.745Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzvbo7d8wkjma7eoo+08ytrgqf2z@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdba55f4b6692a8944",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 13,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "sauvegarde des messages dans un fichier",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d0bfc3b2f38051aad818",
+      "pos": 131072,
+      "shortLink": "IiPkUz02",
+      "shortUrl": "https://trello.com/c/IiPkUz02",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/IiPkUz02/13-sauvegarde-des-messages-dans-un-fichier",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d139898279a6d7ecfb11",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:53:45.127Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzvou9ryky6kai9ld+07b7fle0qq@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdba55f4b6692a8944",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 17,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Création d'un UML de la base de données et tables.",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d139898279a6d7ecfb11",
+      "pos": 196608,
+      "shortLink": "t9BbuutM",
+      "shortUrl": "https://trello.com/c/t9BbuutM",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/t9BbuutM/17-cr%C3%A9ation-dun-uml-de-la-base-de-donn%C3%A9es-et-tables",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d15012e0abd02b4c0732",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:54:08.805Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzvra09uv1crz2eya+1b8i31geqk@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdba55f4b6692a8944",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 18,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "modifier le mot de passe d'un utilisateur depuis un utilisateur admin",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d15012e0abd02b4c0732",
+      "pos": 262144,
+      "shortLink": "pLN4M4lv",
+      "shortUrl": "https://trello.com/c/pLN4M4lv",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/pLN4M4lv/18-modifier-le-mot-de-passe-dun-utilisateur-depuis-un-utilisateur-admin",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d162845118698c2bfe71",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:54:26.316Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzvt9t2lcvnd8n3ox+0zb74ehaim@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdba55f4b6692a8944",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 19,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "exporter l'ensemble des conversations réalisées entre deux périodes de temps données",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d162845118698c2bfe71",
+      "pos": 327680,
+      "shortLink": "uMCObiWl",
+      "shortUrl": "https://trello.com/c/uMCObiWl",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/uMCObiWl/19-exporter-lensemble-des-conversations-r%C3%A9alis%C3%A9es-entre-deux-p%C3%A9riodes-de-temps-donn%C3%A9es",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d16f2a3bb876da544ad2",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:54:39.183Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzvun1p8rxd5lm7yq+0s6v21iikv@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdba55f4b6692a8944",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 20,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "exporter l'historique des conversations de l'utilisateur connecté",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d16f2a3bb876da544ad2",
+      "pos": 393216,
+      "shortLink": "WMFDcpxI",
+      "shortUrl": "https://trello.com/c/WMFDcpxI",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/WMFDcpxI/20-exporter-lhistorique-des-conversations-de-lutilisateur-connect%C3%A9",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d17bab9ba4e41d8b6393",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:54:51.047Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzvvzqbpht41rk1hv+18i6qiv8ba@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdba55f4b6692a8944",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 21,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "exporter l'ensemble des conversations d'un utilisateur donné",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d17bab9ba4e41d8b6393",
+      "pos": 458752,
+      "shortLink": "yl0WZOMH",
+      "shortUrl": "https://trello.com/c/yl0WZOMH",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/yl0WZOMH/21-exporter-lensemble-des-conversations-dun-utilisateur-donn%C3%A9",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d01807bb59eb36ab388c",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:48:56.968Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzutj7glx4txpc03w+1zjphhw8to@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecd6aa5823d6ca4f7a7",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 8,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "rejoindre un canal",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d01807bb59eb36ab388c",
+      "pos": 65536,
+      "shortLink": "1cRI1Rkp",
+      "shortUrl": "https://trello.com/c/1cRI1Rkp",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/1cRI1Rkp/8-rejoindre-un-canal",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d02cd3d0919af6c6c759",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:49:16.937Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzuvs66kwvygk2wyh+2hnxdcvkyx@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecd6aa5823d6ca4f7a7",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 9,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "lister les canaux existants",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d02cd3d0919af6c6c759",
+      "pos": 131072,
+      "shortLink": "PUmsw0oA",
+      "shortUrl": "https://trello.com/c/PUmsw0oA",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/PUmsw0oA/9-lister-les-canaux-existants",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d03b4dbf87b5547b5955",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:49:31.732Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzuxcj1622to4e91x+0ucqcy6p11@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecd6aa5823d6ca4f7a7",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 10,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "créer un canal",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d03b4dbf87b5547b5955",
+      "pos": 196608,
+      "shortLink": "Tj96yiOA",
+      "shortUrl": "https://trello.com/c/Tj96yiOA",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/Tj96yiOA/10-cr%C3%A9er-un-canal",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544cecee1c1e005a4eab159",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": "2023-10-30T10:00:00.000Z",
+        "dueComplete": true,
+        "start": "2023-10-30T07:00:00.000Z"
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": true,
+      "dateLastActivity": "2023-11-03T10:45:38.877Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": "2023-10-30T10:00:00.000Z",
+      "dueReminder": 1440,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzttxtezaimh05il5+25325c2frf@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdeaa3f64f426eebae",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 2,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Réunion de lancement",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544cecee1c1e005a4eab159",
+      "pos": 2,
+      "shortLink": "UZec5slv",
+      "shortUrl": "https://trello.com/c/UZec5slv",
+      "staticMapUrl": null,
+      "start": "2023-10-30T07:00:00.000Z",
+      "subscribed": false,
+      "url": "https://trello.com/c/UZec5slv/2-r%C3%A9union-de-lancement",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544cecefd9038b424ea9945",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:45:51.162Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dztty8mzwc9ax5g05+265suys95z@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdeaa3f64f426eebae",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 1,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Planning",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544cecefd9038b424ea9945",
+      "pos": 65538,
+      "shortLink": "Df6VMiTn",
+      "shortUrl": "https://trello.com/c/Df6VMiTn",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/Df6VMiTn/1-planning",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544cf88aa2e446788444e1a",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:46:48.190Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzue12u4ksmsg2plm+19tzw0sm9c@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdeaa3f64f426eebae",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 3,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Création du serveur ExpressJS",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544cf88aa2e446788444e1a",
+      "pos": 131074,
+      "shortLink": "C58l3Nco",
+      "shortUrl": "https://trello.com/c/C58l3Nco",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/C58l3Nco/3-cr%C3%A9ation-du-serveur-expressjs",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544cfb5ebe4599014f5deb5",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:47:17.691Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzuix9jqivm3bi4l1+11qxwp0rlk@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdeaa3f64f426eebae",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 4,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "envoyer un message",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544cfb5ebe4599014f5deb5",
+      "pos": 196610,
+      "shortLink": "A9wx0TSO",
+      "shortUrl": "https://trello.com/c/A9wx0TSO",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/A9wx0TSO/4-envoyer-un-message",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544cfd1dd2873bfe8a0c7ef",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:47:45.344Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzuly1o9gas31l1in+1w2e30a66k@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdeaa3f64f426eebae",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 5,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "recevoir les messages envoyés par les autres utilisateurs",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544cfd1dd2873bfe8a0c7ef",
+      "pos": 262146,
+      "shortLink": "5tbo17VO",
+      "shortUrl": "https://trello.com/c/5tbo17VO",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/5tbo17VO/5-recevoir-les-messages-envoy%C3%A9s-par-les-autres-utilisateurs",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544cfe3536b7171fe62bc36",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:48:03.417Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzunu0ynjgivvh7p2+25dqf0qkqc@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdeaa3f64f426eebae",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 6,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "choisir un pseudonyme",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544cfe3536b7171fe62bc36",
+      "pos": 327682,
+      "shortLink": "PlOTZ94x",
+      "shortUrl": "https://trello.com/c/PlOTZ94x",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/PlOTZ94x/6-choisir-un-pseudonyme",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d06bdbd16ca21058c21d",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:50:19.828Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzv2ljzv5e1oxs6ql+16v3pnv732@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdeaa3f64f426eebae",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 11,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "créer une vue à une page d'accueil",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d06bdbd16ca21058c21d",
+      "pos": 393218,
+      "shortLink": "LNDpy8ym",
+      "shortUrl": "https://trello.com/c/LNDpy8ym",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/LNDpy8ym/11-cr%C3%A9er-une-vue-%C3%A0-une-page-daccueil",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d088b9135e53cea12b8f",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:50:48.948Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzv5pxbfysyv5e3rj+22xiacmsij@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdeaa3f64f426eebae",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 12,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "créer une vue pour les conversations de groupe",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d088b9135e53cea12b8f",
+      "pos": 458754,
+      "shortLink": "xNItWMAU",
+      "shortUrl": "https://trello.com/c/xNItWMAU",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/xNItWMAU/12-cr%C3%A9er-une-vue-pour-les-conversations-de-groupe",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d0df88d6dbbca20664e6",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:52:15.595Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzvf3vxodaxz0u2na+0q0mhrtqr6@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdeaa3f64f426eebae",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 14,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Installation MySQL",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d0df88d6dbbca20664e6",
+      "pos": 524290,
+      "shortLink": "y9awEI3Y",
+      "shortUrl": "https://trello.com/c/y9awEI3Y",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/y9awEI3Y/14-installation-mysql",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d0f7d3d330a9583981fa",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:52:39.873Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzvhqgkvzenc1lfcq+2kzu2ll6on@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdeaa3f64f426eebae",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 15,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "création d'une base de données appelée myIRC",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d0f7d3d330a9583981fa",
+      "pos": 589826,
+      "shortLink": "anxF5Orq",
+      "shortUrl": "https://trello.com/c/anxF5Orq",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/anxF5Orq/15-cr%C3%A9ation-dune-base-de-donn%C3%A9es-appel%C3%A9e-myirc",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6544d1116fce1831a29692fd",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-11-03T10:53:05.127Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "julienthomasm+31dzt9buhr2y3lc21ru+31dzvki5prt8ipbbym5+00eaivpqcc@boards.trello.com",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6544cecdeaa3f64f426eebae",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "idShort": 16,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Création d'une table messages, une table channels et une table users",
+      "nodeId": "ari:cloud:trello::card/workspace/6544cecd298ffbbf8950c155/6544d1116fce1831a29692fd",
+      "pos": 655362,
+      "shortLink": "M7hNRyDe",
+      "shortUrl": "https://trello.com/c/M7hNRyDe",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/M7hNRyDe/16-cr%C3%A9ation-dune-table-messages-une-table-channels-et-une-table-users",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    }
+  ],
+  "labels": [
+    {
+      "id": "6544cecdaa93b1f11b622f51",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "name": "",
+      "color": "blue",
+      "uses": 0
+    },
+    {
+      "id": "6544cecdaa93b1f11b622f4f",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "name": "",
+      "color": "green",
+      "uses": 0
+    },
+    {
+      "id": "6544cecdaa93b1f11b622f50",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "name": "",
+      "color": "orange",
+      "uses": 0
+    },
+    {
+      "id": "6544cecdaa93b1f11b622f5c",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "name": "",
+      "color": "purple",
+      "uses": 0
+    },
+    {
+      "id": "6544cecdaa93b1f11b622f5a",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "name": "",
+      "color": "red",
+      "uses": 0
+    },
+    {
+      "id": "6544cecdaa93b1f11b622f52",
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "name": "",
+      "color": "yellow",
+      "uses": 0
+    }
+  ],
+  "lists": [
+    {
+      "id": "6544cecdba55f4b6692a8944",
+      "name": "To Do",
+      "closed": false,
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "pos": 1,
+      "subscribed": false,
+      "softLimit": null,
+      "status": null,
+      "creationMethod": null,
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/6544cecd298ffbbf8950c155/6544cecdba55f4b6692a8944"
+    },
+    {
+      "id": "6544cecd6aa5823d6ca4f7a7",
+      "name": "Doing",
+      "closed": false,
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "pos": 2,
+      "subscribed": false,
+      "softLimit": null,
+      "status": null,
+      "creationMethod": null,
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/6544cecd298ffbbf8950c155/6544cecd6aa5823d6ca4f7a7"
+    },
+    {
+      "id": "6544cecdeaa3f64f426eebae",
+      "name": "Done",
+      "closed": false,
+      "idBoard": "6544cecd298ffbbf8950c170",
+      "pos": 3,
+      "subscribed": false,
+      "softLimit": null,
+      "status": null,
+      "creationMethod": null,
+      "idOrganization": "6544cecd298ffbbf8950c155",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/6544cecd298ffbbf8950c155/6544cecdeaa3f64f426eebae"
+    }
+  ],
+  "members": [
+    {
+      "id": "6544ce104b1a3ece2984257a",
+      "aaId": "712020:d2a04943-f254-40d6-987f-56a6e48f3bfa",
+      "activityBlocked": false,
+      "avatarHash": "aea1092ab6108ce37e3df0584f82e17f",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/6544ce104b1a3ece2984257a/aea1092ab6108ce37e3df0584f82e17f",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "fullName": "Julien Thomas",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": [],
+      "idMemberReferrer": null,
+      "idPremOrgsAdmin": [],
+      "initials": "JT",
+      "memberType": "normal",
+      "nonPublic": {
+        "fullName": "Julien Thomas",
+        "initials": "JT",
+        "avatarHash": null
+      },
+      "nonPublicAvailable": true,
+      "products": [],
+      "url": "https://trello.com/julienthomasmg",
+      "username": "julienthomasmg",
+      "status": "disconnected"
+    },
+    {
+      "id": "6544cf0f91ff42a281f651bc",
+      "aaId": "712020:074e1d91-45c2-41bb-9f11-6abcacefb8e7",
+      "activityBlocked": false,
+      "avatarHash": "fd5df9cde13421f78a58de338302f3df",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/6544cf0f91ff42a281f651bc/fd5df9cde13421f78a58de338302f3df",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "fullName": "Paterna Julien",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": null,
+      "idMemberReferrer": "6544ce104b1a3ece2984257a",
+      "idPremOrgsAdmin": [],
+      "initials": "PJ",
+      "memberType": "normal",
+      "nonPublic": {},
+      "nonPublicAvailable": true,
+      "products": [],
+      "url": "https://trello.com/paternajulien1",
+      "username": "paternajulien1",
+      "status": "disconnected"
+    }
+  ],
+  "checklists": [],
+  "customFields": [],
+  "memberships": [
+    {
+      "idMember": "6544ce104b1a3ece2984257a",
+      "memberType": "admin",
+      "unconfirmed": false,
+      "deactivated": false,
+      "id": "6544cecd298ffbbf8950c178"
+    },
+    {
+      "idMember": "6544cf0f91ff42a281f651bc",
+      "memberType": "normal",
+      "unconfirmed": false,
+      "deactivated": false,
+      "id": "6544cf1091ff42a281f65239"
+    }
+  ],
+  "pluginData": []
+}

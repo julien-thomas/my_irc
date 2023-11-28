@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Socket.IO chat</title>
+  <link href="../css/style.css" rel="stylesheet" />
+</head>
+
+<body>
+  <ul id="rooms"></ul>
+  <form id="room_form" action="/chat" method="post">
+    <input id="room_choice" autocomplete="off" type="text" name="room_choice" onclick="this.value='';" />
+    <button>Submit the room number (Main chat : room n°0)</button>
+  </form>
+  <form id="room_form" action="/chat" method="post">
+    <input id="room_number_please" autocomplete="off" type="text" name="room_number_please" onclick="this.value='';" />
+    <button>Remember me your room number please?</button>
+  </form>
+  <ul id="messages"></ul>
+  <form class="chat" id="form" action="/chat">
+    <input id="input" autocomplete="off" placeholder="express yourself here..." /><button>Send message</button>
+  </form>
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    const socket = io();
+
+    const form = document.getElementById('form');
+    // const room_form = document.getElementById('button');
+    const input = document.getElementById('input');
+    const input_room = document.getElementById('room_choice');
+    const messages = document.getElementById('messages');
+    const $rooms = document.getElementById('rooms');
+
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      if (input.value) {
+        socket.emit('chat message', input.value);
+        input.value = '';
+      }
+    });
+
+    socket.on('chat message', (msg) => {
+      const item = document.createElement('li');
+      item.textContent = msg;
+      messages.appendChild(item);
+      window.scrollTo(0, document.body.scrollHeight);
+    });
+
+    // socket.on('list of rooms', (rooms) => {
+    //   for (const elem of rooms) {
+    //     let item = document.createElement('li');
+    //     // item.href = "#?room=" + elem.room_id;
+    //     // item.textContent = "  room" + elem.room_id;
+    //     if (elem.room_id != 0) {
+    //       item.textContent = elem.users[0].name + " : Room " + elem.room_id;
+    //       $rooms.appendChild(item);
+    //     }
+    //   }
+    // })
+  </script>
+</body>
+
+</html>
