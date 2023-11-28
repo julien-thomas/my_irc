@@ -5,7 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx nodemon ./my_irc/my_irc.ts"
+    "start": "npx nodemon my_irc.ts"
   },
   "keywords": [],
   "author": "",
@@ -22,7 +22,7 @@
     "express": "^4.18.2",
     "express-session": "^1.17.3",
     "mariadb": "^3.2.2",
-    "mysql2": "^3.6.2",
+    "mysql2": "^3.6.5",
     "socket.io": "^4.7.2"
   }
 }
